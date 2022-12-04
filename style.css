@@ -1,0 +1,40 @@
+
+* {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Courier New', 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.main-head,
+.minor-head {
+    color: rgb(51, 87, 82);
+    font-weight: bolder;
+}
+
+.minor-head {
+    font-weight: 400;
+    font-size:large;
+    font-weight: bold;
+}
+
+.list,
+.list-instruct {
+   font-weight: 300;
+   font-size: medium;
+   color: rgb(51, 87, 82);
+}
+
+.list-instruct {
+    font-weight: bold;
+}
+
+.return-button{
+    text-align: end;
+}
+
+.list #mental-break{
+    font-weight: 800;
+    font-family: 'Brush Script MT (cursive)', 'Times New Roman', Times, serif;;
+    color: rgb(100, 87, 82);
+}
